@@ -10,14 +10,10 @@
     "DiscordJS"
   ],
   "author": "Auth < contact.me.auth@gmail.com >",
-  "license": "MIT",
+  "license": "Apache2",
   "dependencies": {
-    "chalk": "^5.0.1",
     "child_processes": "^0.1.0",
-    "discord.js": "^13.8.0",
-    "express": "^4.18.1",
-    "js-to-ts-converter": "^0.18.2",
-    "mysql": "^2.18.1"
+    "discord.js": "^13.8.0"
   },
   "devDependencies": {
     "ansi-colors": "^4.1.3",

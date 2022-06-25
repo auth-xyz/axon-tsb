@@ -45,7 +45,7 @@ export default class __events__ {
 
 
       var string = `\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-  ${c.yellow(`${ascii}`)}
+ ${c.yellow(`${ascii}`)}
     ${c.yellow(`Bot Status : Connected`)}
     ${c.yellow(`Bot Prefix : ${Prefix}`)}
               
